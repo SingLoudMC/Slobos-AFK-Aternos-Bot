@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "BOT",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "BOT",
+    "password": "qwerty",
     "type": "offline"
   },
   "server": {
     "ip": "TrapVerseSMP.aternos.me",
     "port": 11860,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
